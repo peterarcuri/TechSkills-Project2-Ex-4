@@ -61,4 +61,5 @@ console.log(partyLocation);
 // ==============================
 
 // Because the incorrect assignment can be difficult for debugging purposes if 
-// there's multiple lines of code
+// there's multiple lines of code. checking for both type and value (which triple equals does ===)
+// ensures a better equality check.
